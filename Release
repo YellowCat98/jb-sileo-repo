@@ -1,25 +1,25 @@
 Architectures: iphoneos-arm64
 Codename: stable
 Components: main
-Date: Thu, 03 Sep 2026 17:12:38 +0000
+Date: Thu, 03 Sep 2026 17:26:01 +0000
 Description: A Sileo repo that hosts my tweaks.
 Label: YellowCat98
 Origin: YellowCat98's Repo
 Suite: stable
 Version: 1.0
 MD5Sum:
- bc92d477d2bfccd5b89c03cd7694ae05              489 Packages
- 5a53c57b8603d216328417a94367108c              412 Packages.xz
- 7c00de1ed924c667657d12ddf04d1fd5              223 Release
+ b73feb64109bd2d4e4e7ed73973448d9              489 Packages
+ 1495307b7ad81b541a141051949d6216              408 Packages.xz
+ ba445d7cba4ce621e6888e813f3c6427              223 Release
 SHA1:
- 996552bc35138439e4be3f6cb6abd1536af453d3              489 Packages
- 6b3071140f91d2bf316c8298b9468120f6c406a6              412 Packages.xz
- f0c68728177eed8469767af67f0633823fe37133              223 Release
+ 7dad2b824d6e7bb604b10aa86e3fe931114a798a              489 Packages
+ 62893e8e918439e60b2c55c66dc33d2219981dc3              408 Packages.xz
+ fbb829902c15749eb9f8a7c62c409b107f6a8fa6              223 Release
 SHA256:
- 697fe356b599b6121a2a0888bf901be5c7049f9e38c04826a7d393fd78c86a01              489 Packages
- 3458037f2eecdf7eaef92dfd1338abb1da0a040f29a6cbcacc1f3db7f4c9ce3b              412 Packages.xz
- 98081257c24f9dbccde06e4758f610b9f69f10966d951825feab3e0ae060368e              223 Release
+ d44e46d9fc7433dbb85d46d232fd504fa9fca8511c86a97e8e0d95d76ad166a2              489 Packages
+ 1467121b565c016e5b3dfaf212ba77b6792dd0c68634da9cdd951e2c57cd6ab2              408 Packages.xz
+ 82c55f5bf43ccf7f7f8bbe47ddb088347d7c9b36de847e349b795112172c5515              223 Release
 SHA512:
- 185563f6707a6b3a8c022ec1acca4963cab1a3b7713628ecd3d152ca5533a6ae180c971c73bbbadc40449355b2cdf2e8f78269fdb3258c2508fac31e9f2b55cc              489 Packages
- d867c6fcecbde2f27ca78a80861c19ee82aea7b89d368343709835b3e87cfcf5929ba37aa0b8dc4160c172b857f6803cd6c5d32ad2275261440db70a81006490              412 Packages.xz
- 8863f37d80e430d37ef72bb10623381bd8c9d6a889ebfe32af316f9696ff180191f3941c63884ac0ff932a757e695e5f12d326e2f6f45612c4857e00b5a461a1              223 Release
+ f711aa456422b366e97acb50d23d480f6d25c7ff198df49256e4ff65ec090c8a6693150bc23f6064052153b4c445b8c5eeb046fa14cf6ce900e020134096caff              489 Packages
+ 4fabf34278a5b0b3d79be7ee06b91f1e79c46419ef00490f598a9317fc72d057f2f47a2f73ed384f5d0d62a42e0c9ad6fc1c4e9de61e467a9806fc569173d349              408 Packages.xz
+ 6c7ed240d3e7923408db2458ee9943d0a5a95fed56a8f4da2b1a29afc5c3d9dfb69b2b8ac4f24e0a1c8b9f5d32bf489ffb1f6e7071ca722fe6137c06da2a2bfb              223 Release
