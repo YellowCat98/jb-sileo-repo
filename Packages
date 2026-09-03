@@ -7,6 +7,6 @@ Description: Bringing the WiFi module to iOS 18.0-18.0.1.
 Maintainer: YellowCat98
 Author: YellowCat98
 Section: Control Center (Modules)
-Filename: https://github.com/YellowCat98/WiFiModule-jb/releases/download/v1.0.1/com.yellowcat98.wifimodule_1.0.0_iphoneos-arm64.deb
+Filename: https://github.com/YellowCat98/WiFiModule-jb/releases/download/v1.0.1/com.yellowcat98.wifimodule_1.0.1_iphoneos-arm64.deb
 Size: 4737
 SHA256: ef25d124f32fbf0e8870210448514a9f0e6135c3a59033e85b45103e38ad96b7
