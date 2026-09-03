@@ -1,0 +1,12 @@
+Package: com.yellowcat98.wifimodule
+Name: WiFiModule
+Depends: com.opa334.ccsupport
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Bringing the WiFi module to iOS 18.0-18.0.1.
+Maintainer: YellowCat98
+Author: YellowCat98
+Section: Control Center (Modules)
+Filename: https://github.com/YellowCat98/WiFiModule-jb/releases/download/v1.0.0/com.yellowcat98.wifimodule_1.0.0_iphoneos-arm64.deb
+Size: 4240
+SHA256: 00b4568fa7f30be36b065b4d0f213aeb75b7aaa6457cf47b2ee552a48a9b9a11
